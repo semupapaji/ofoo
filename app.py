@@ -4,7 +4,7 @@ import logging
 
 app = FastAPI()
 
-TELEGRAM_BOT_TOKEN = "8602347385:AAEjSoJOUlS0Y4OzsoUDjuV0yfrY0znsJZ8"
+TELEGRAM_BOT_TOKEN = "8611092916:AAFfTAEcwP9-vyQo-lXqRpClem_s5O7YHsY"
 TELEGRAM_CHAT_ID = "7326248826"
 
 logging.basicConfig(level=logging.INFO)
